@@ -1,0 +1,29 @@
+_repo: The-Holly-Tree_1394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: 'No author is more associated with Christmas-time than Charles Dickens.  This
+  collection contains two of his festive short novels: ''The chimes'' and ''The holly
+  tree''.'
+gutenberg_issued: '1998-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christmas stories'
+- !lcsh 'English fiction'
+- GITenberg
+title: The Holly-Tree
+url: http://www.gutenberg.org/ebooks/1394
